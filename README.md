@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 #### 💫 About Me
 
 - 🔭 I’m currently working as a **Web Developer** Specialist
-- 🌱 I’m currently learning on [**React**](https://React.com) Framework
-- 🌱 I’m currently learning on [**Vue**](https://Vue.com) Framework
-- 🌱 I’m currently learning on [**Laravel**](https://laravel.com) Framework
+- 🌱 I’m currently learning on [**Nuxt.js**](https://nuxt.com) Framework
+- 🌱 I’m currently learning on [**Next.js**](https://next.com) Framework
+
 
 <!-- adding badges -->
 
